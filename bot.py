@@ -35,4 +35,4 @@ async def mesajgonderyardım(ctx):
     
 
 
-bot.run('Njk4ODk5Mjk1MTE3NTA4NjM5.XpMisA.wo0Bi-DL4SXKrhM8XstZEJkcNAc')
+bot.run('token girin')
